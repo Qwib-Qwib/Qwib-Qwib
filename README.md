@@ -1,6 +1,7 @@
 **Hey everyone! Welcome to my personal profile.**
 ---
-I'm a full-stack web-developer with a background in translation and literature. I've learned Ruby and the Ruby On Rails framework through Le Wagon and the Odin Project, and I'm currently focusing on them, though I'd like to branch out a bit. I'm particularly interested in learning a lower-level language. I've been thinking of C, C++ or even Rust, but haven't settled on something yet.
+🌱 I'm a full-stack web-developer with a background in translation and literature. I've learned Ruby and the Ruby On Rails framework through Le Wagon and the Odin Project, and I'm currently focusing on them, though I'd like to branch out a bit. I'm particularly interested in learning a lower-level language. I've been thinking of C, C++ or even Rust, but haven't settled on something yet.
+
 I also have an interest in game design, and I'm currently reading up on the subject (*The Art of Game Design* by Jesse Schell).
 
 The final project I have worked on with Le Wagon is Canopée, an app meant to help French city-dwellers with both revitalizing their balconies and windowsills with climatically relevant plants, and with taking care of them in the long run.
