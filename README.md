@@ -6,7 +6,11 @@ I also have an interest in game design, and I'm currently reading up on the subj
 
 The final project I have worked on with Le Wagon is Canopée, an app meant to help French city-dwellers with both revitalizing their balconies and windowsills with climatically relevant plants, and with taking care of them in the long run.
 
-![Codewars](https://github.r2v.ch/codewars?user=Qwib-Qwib&name=false&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark_by_level)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="[https://github.r2v.ch/codewars?user=USERNAME](https://github.r2v.ch/codewars?user=Qwib-Qwib&name=false&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark_by_level)" />
+    </a>
+</p>
 
 <!--
 **Qwib-Qwib/Qwib-Qwib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
