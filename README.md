@@ -8,7 +8,7 @@ The final project I have worked on with Le Wagon is Canopée, an app meant to he
 
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
-      <img src="[https://github.r2v.ch/codewars?user=USERNAME](https://github.r2v.ch/codewars?user=Qwib-Qwib&name=false&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark_by_level)" />
+      <img src="https://github.r2v.ch/codewars?user=Qwib-Qwib&name=false&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark_by_level" />
     </a>
 </p>
 
