@@ -20,7 +20,7 @@
 
 ### :point_right: About me:
 
-:man_technologist: I'm a full-stack web-developer with a background in translation and literature. I've learned Ruby and the Ruby On Rails framework through Le Wagon and the Odin Project, and I'm currently focusing on them, though I'd like to branch out a bit. I'm particularly interested in learning a lower-level language, like C, but haven't settled on a particular language yet.
+:man_technologist: I'm a full-stack web-developer with a background in translation and literature. I've learned Ruby and the Ruby On Rails framework through Le Wagon and the Odin Project, and I'm currently focusing on them, though I'd like to branch out a bit. I'm currently learning Python.
 
 :video_game: I also have an interest in game design, and I'm currently reading up on the subject (*The Art of Game Design* by Jesse Schell).
 
@@ -49,7 +49,7 @@
 
 ### :chart_with_upwards_trend: Stats:
 
-:octocat: I'm rather active on Github:
+:octocat: I'm active on Github:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Qwib-Qwib&theme=dark&background=000000)](https://git.io/streak-stats)
 
